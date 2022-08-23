@@ -1,9 +1,9 @@
 # Predictive Models Airbnb Rental Price - Final Project AI
 
 ## Integrantes del grupo:
-* Juanita Fonnegra Villegas - Bioingeniería
-* Santiago León Macía Palacio - Ingeniería Industrial
-* Diego Saavedra - Ingeniería Industrial
+* Juanita Fonnegra Villegas - Bioingeniería - 1017225586
+* Santiago León Macía Palacio - Ingeniería Industrial - 1022094225
+* Diego Saavedra - Ingeniería Industrial - 1035922637
 
 ## Fuente de los datos: 
 https://www.kaggle.com/datasets/ruthgn/new-orleans-airbnb-listings-and-reviews?select=new_orleans_airbnb_listings.csv
